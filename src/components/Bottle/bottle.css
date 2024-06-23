@@ -1,0 +1,22 @@
+.img-width{
+    width: 250px;
+    border: 1px solid tomato;
+    border-radius: 15px;
+}
+.border{
+    border: 2px solid gray;
+    padding: 15px;
+    border-radius: 15px;
+}
+.select{
+    background-color: burlywood;
+    color: black;
+}
+.non-select{
+    background-color: black;
+    color: beige;
+}
+.btn-block{
+    
+    margin-top: 10px;
+}

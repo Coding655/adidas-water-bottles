@@ -1,0 +1,17 @@
+.bottles-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    
+}
+.flex{
+    display: flex;
+}
+.add-to-cart-border{
+    border: 2px dotted gray;
+    margin-left: 10px;
+    border-radius: 15px;
+    height: 700px;
+    width: 300px;
+    padding: 10px;
+}

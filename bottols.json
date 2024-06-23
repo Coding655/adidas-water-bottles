@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Adidas Performance Bottle",
+        "color": "Black",
+        "capacity_ml": 750,
+        "price_usd": 15.99,
+        "img" : "https://www.batabd.com/cdn/shop/files/1_01543227-9e4f-4f53-9ef5-04989e244463_1024x1024.jpg?v=1687330334"
+    },
+    {
+        "id": 2,
+        "name": "Adidas Classic Bottle",
+        "color": "Yellow",
+        "capacity_ml": 500,
+        "price_usd": 12.99,
+        "img" : "https://assets.adidas.com/images/w_1880,f_auto,q_auto/3f9d55adcc4a474ab97baf4c00e71a59_9366/HY4061_01_standard.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Adidas Sport Bottle",
+        "color": "Red",
+        "capacity_ml": 600,
+        "price_usd": 14.99,
+        "img" : "https://assets.adidas.com/images/w_1880,f_auto,q_auto/88b3021e1b81481a93d48f274aca46a8_9366/IY0435_01_standard.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Adidas Insulated Bottle",
+        "color": "Silver",
+        "capacity_ml": 700,
+        "price_usd": 18.99,
+        "img" : "https://assets.adidas.com/images/w_1880,f_auto,q_auto/461e5ebb02b24527ac8cbab80b8ca7bd_9366/IR5789_01_standard.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Adidas Steel Bottle",
+        "color": "White",
+        "capacity_ml": 1000,
+        "price_usd": 24.99,
+        "img" : "https://assets.adidas.com/images/w_1880,f_auto,q_auto/37e9eb8d666044cb973566009be29ff6_9366/IY0454_01_standard.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Adidas Training Bottle",
+        "color": "Blue",
+        "capacity_ml": 550,
+        "price_usd": 13.99,
+        "img" : "https://assets.adidas.com/images/w_1880,f_auto,q_auto/2b25c0484ee34cafb243af4f0146836f_9366/HT3523_01_standard.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Adidas Eco Bottle",
+        "color": "Gray",
+        "capacity_ml": 650,
+        "price_usd": 16.99,
+        "img" : "https://assets.adidas.com/images/w_1880,f_auto,q_auto/fcf81059e1da467f975bac7500d74849_9366/GN1877_01_standard.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Adidas Pro Bottle",
+        "color": "lite_Green",
+        "capacity_ml": 800,
+        "price_usd": 19.99,
+        "img" : "https://assets.adidas.com/images/w_940,f_auto,q_auto/03ebf77c1f3643908c82aa9797d98e00_9366/IR9680_01_standard.jpg"
+    }
+]
